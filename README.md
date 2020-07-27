@@ -1,5 +1,7 @@
 # LikeMeetings
 
+![Logo](https://i.ibb.co/0FJYfwb/Capture.png)
+
 ## Problem: When you're in a group meeting, oftentimes people want to give quick feedback on something someone said. But it's awkward to unmute just to say "plus one to that." Meanwhile, the speaker / presenter is wondering the entire time "what do people think?" 
 
 ## Solution: A Chrome extension that adds the **like** functionality for Google Hangouts and Google Meets. 
